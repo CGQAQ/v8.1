@@ -4,7 +4,7 @@
 - Git
 - Python3
 
-## Build (Non-Windows)
+## Build (Non-Windows, Not working yet...)
 ```bash
 git clone --recurse-submodules https://github.com/CGQAQ/v8.1.git v8.1
 cd v8.1
